@@ -1,13 +1,13 @@
 #1 Curso Basico com HMTL5 e CSS3 que completei na DIO: https://web.dio.me/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8
 
-Total de horas que o curso possui aproximadamente: (6 Horas)
+Total de Horas que o Curso Possui Aproximadamente: (6 Horas)
 
 
 
 
 #2 Curso Sobre Logica de Programação que completei no YouTube: https://www.youtube.com/watch?v=4IMr8PQa0WQ&list=PLucm8g_ezqNp_ubuH4XraJRwvUJogsyiF
 
-Total de horas que o curso possui aproximadamente: (5 Horas 41 Minutos e 67 Segundos)
+Total de Horas que o Curso Possui Aproximadamente: (5 Horas 41 Minutos e 67 Segundos)
 
 
 
@@ -15,7 +15,7 @@ Total de horas que o curso possui aproximadamente: (5 Horas 41 Minutos e 67 Segu
 #3 Curso de algumas coisas sobre git que estudei no YouTube: https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1&index=2
 (1-Brache e Merge, 2-Stash, 3-Remote, 4-Pull e Push, 5-Reset)
 
-Total de horas que o curso possui aproximadamente: (1 Hora 31 Minutos e 67 Segundos)
+Total de Horas que o Curso Possui Aproximadamente: (1 Hora 31 Minutos e 67 Segundos)
 
 	
 
